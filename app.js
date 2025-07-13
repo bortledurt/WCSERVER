@@ -1,4 +1,4 @@
-const add, sub, mul, div = require('./calculation');
+const { add, sub, mul, div } = require('./calculation');
 
 const hourlyRate = 300;
 const hoursPerDay = 4;
